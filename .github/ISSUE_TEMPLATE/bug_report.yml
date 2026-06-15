@@ -68,6 +68,7 @@ body:
       required: false
 
   - type: textarea
+    id: screenshots
     attributes:
       label: Screenshots
       description: Drag and drop screenshots here. You can also paste images from your clipboard.
