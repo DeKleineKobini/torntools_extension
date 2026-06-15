@@ -1,8 +1,7 @@
 name: Bug Report
-description: Report an issue with TornTools
+description: Report an issue
 title: ""
 labels: ["bug"]
-type: bug
 body:
   - type: markdown
     attributes:
